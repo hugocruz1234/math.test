@@ -1,1 +1,1 @@
-Created a new html file with a header and textbox
+added 3 new paragraphs with radom information to the html file
