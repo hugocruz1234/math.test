@@ -1,1 +1,1 @@
-added 3 new paragraphs with radom information to the html file
+Modify the position of the header and the textbox
