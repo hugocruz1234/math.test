@@ -1,0 +1,15 @@
+-- Seleccionar achivos para subir
+ 
+git add "Nombre del archivo" o git add . (punto para agregar todos los archivos)
+
+
+--Agregar el commit
+git commit -m ""
+
+
+--Subir archivos a git
+git push
+
+
+-- Renombrar o mover de carpetas archivos
+git mv [nombre archivo a editar] [nombre nuevo]
