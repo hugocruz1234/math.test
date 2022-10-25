@@ -16,3 +16,12 @@ git mv [nombre archivo a editar] [nombre nuevo]
 
 -- Crear una nueva rama y cambiarse a ella
 git checkout -b [nombre rama]
+
+--Reiniciar VSCode en el directorio en el que estamos
+code -r .
+
+-- Jalar cambios de main
+git pull [nombre remote] [nombre rama]
+
+-- Limpiar terminal
+cls
