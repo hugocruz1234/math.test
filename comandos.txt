@@ -13,3 +13,6 @@ git push
 
 -- Renombrar o mover de carpetas archivos
 git mv [nombre archivo a editar] [nombre nuevo]
+
+--Reiniciar VSCode en el directorio en el que estamos
+code -r .
